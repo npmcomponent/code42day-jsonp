@@ -1,4 +1,4 @@
-var load = require('load');
+var load = require('code42day-load');
 
 // unique callback number
 var callbackId = 0;

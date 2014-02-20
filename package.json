@@ -1,0 +1,13 @@
+{
+  "name": "code42day-jsonp",
+  "description": "Subset of superagent API to be used with jsonp requests",
+  "version": "1.0.0",
+  "keywords": [
+    "ajax",
+    "jsonp"
+  ],
+  "dependencies": {
+    "code42day-load": "git://github.com/npmcomponent/code42day-load.git"
+  },
+  "license": "MIT"
+}
